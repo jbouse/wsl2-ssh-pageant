@@ -17,4 +17,4 @@ To use it, add `wsl2-ssh-pageant` to the plugins array of your zshrc file:
 
 ```zsh
 plugins=(... wsl2-ssh-pageant)
-`
+```
